@@ -14,20 +14,26 @@ Per fer-ho, s’han entrenat cinc models diferents utilitzant la base de dades *
 
 ## Estructura del repositori
 
+.
 ├── README.md
 ├── LICENSE
+│
 ├── notebooks/
-│ ├── model_mlp1.ipynb
-│ ├── model_mlp2.ipynb
-│ ├── model_CNN3.ipynb
-│ ├── model_CNN4.ipynb
-│ └── model_CNN5.ipynb
+│   ├── model_mlp1.ipynb
+│   ├── model_mlp2.ipynb
+│   ├── model_CNN3.ipynb
+│   ├── model_CNN4.ipynb
+│   └── model_CNN5.ipynb
+│
 ├── data/
-│ └── (fitxers EMNIST / scripts per importar-los)
+│   └── (fitxers EMNIST / scripts per importar-los)
+│
 ├── results/
-│ └── (imatges, gràfics i resultats)
+│   └── (imatges, gràfics i resultats)
+│
 └── src/
-└── (funcions auxiliars i interfícies gràfiques)
+    └── (funcions auxiliars i interfícies gràfiques)
+
 
 ## Models inclosos
 
