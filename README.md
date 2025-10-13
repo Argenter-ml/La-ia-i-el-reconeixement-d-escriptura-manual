@@ -27,10 +27,10 @@ Per fer-ho, s’han entrenat cinc models diferents utilitzant la base de dades *
 │   └── model_CNN5.ipynb
 │
 ├── data/
-│   └── (fitxers EMNIST o scripts per importar-los)
+│   └── (fitxers EMNIST / scripts per importar-los)
 │
 └── src/
-    └── (funcions auxiliars o interfícies gràfiques)
+    └── (funcions auxiliars / interfícies gràfiques)
 ```
 ## Models inclosos
 
