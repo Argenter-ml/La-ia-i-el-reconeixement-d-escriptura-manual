@@ -29,7 +29,7 @@ Per fer-ho, s’han entrenat cinc models diferents utilitzant la base de dades *
 └── src/
 └── (funcions auxiliars i interfícies gràfiques)
 
-## 🤖 Models inclosos
+## Models inclosos
 
 | Nº | Nom del model | Descripció | Resultats | Fitxer |
 |----|----------------|-------------|------------|---------|
