@@ -1,0 +1,1 @@
+# La-intel-lig-ncia-artificial-i-el-reconeixement-d-escriptura-manual
