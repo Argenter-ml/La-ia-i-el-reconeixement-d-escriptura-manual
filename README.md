@@ -29,9 +29,6 @@ Per fer-ho, s’han entrenat cinc models diferents utilitzant la base de dades *
 ├── data/
 │   └── (fitxers EMNIST o scripts per importar-los)
 │
-├── results/
-│   └── (imatges, gràfics i resultats)
-│
 └── src/
     └── (funcions auxiliars o interfícies gràfiques)
 ```
