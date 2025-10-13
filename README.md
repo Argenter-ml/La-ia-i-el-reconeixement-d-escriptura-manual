@@ -14,6 +14,7 @@ Per fer-ho, s’han entrenat cinc models diferents utilitzant la base de dades *
 
 ## Estructura del repositori
 
+```bash
 .
 ├── README.md
 ├── LICENSE
@@ -26,15 +27,14 @@ Per fer-ho, s’han entrenat cinc models diferents utilitzant la base de dades *
 │   └── model_CNN5.ipynb
 │
 ├── data/
-│   └── (fitxers EMNIST / scripts per importar-los)
+│   └── (fitxers EMNIST o scripts per importar-los)
 │
 ├── results/
 │   └── (imatges, gràfics i resultats)
 │
 └── src/
-    └── (funcions auxiliars i interfícies gràfiques)
-
-
+    └── (funcions auxiliars o interfícies gràfiques)
+```
 ## Models inclosos
 
 | Nº | Nom del model | Descripció | Resultats | Fitxer |
